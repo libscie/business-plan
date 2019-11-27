@@ -1,0 +1,18 @@
+- [Stripe payments](https://stripe.com/en-de/payments)
+  - tested and functioning with the Sustainable Science Symposium tickets
+- Ping SQL database for sign of life prior to payment process
+- Registry
+  - Send simple payment request (1EUR p/module) to Stripe
+  - Webhook passes Dat key(s) to SQL database
+  - Registry containers listen for new entries to SQL db, replicate and seed versioned Dat archives
+- Computations
+  - Need a model to determine price for the computation
+    - Factors: nodes, edges, analysis, machine specs
+    - Model estimates the seconds needed to run analysis
+      - Need to track how much time we spend to test this (but have $3000 of credits at AWS so we can test a bit)
+  - Urgent computations require extra $$ --> maybe upgrade what machine we run it on?
+  - Send complex payment request to Stripe (based on predicted duration and machine price p/second)
+  - Upon payment
+    - initiate machine or send to queue of compute cluster
+      - Compute cluster based on [SLURM](https://slurm.schedmd.com/) makes sense if there are many jobs, at start we'll just initiate machines on demand
+    - way we run the computations depends on the graph data structure and compute type, which we'll add later.
