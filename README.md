@@ -4,7 +4,9 @@ This business plan is written both as a visioning exercise (future tense) and up
 
 ## Business motivation
 
-Many creative outputs are the result of combining previous iterative steps, using them as building blocks. For investigative processes, the provenance of information is important to its trustworthiness. Restrictive licensing reduces both the permitted permutations, reducing creative space, and makes it more difficult to trace provenance, reducing verifiability of outputs. The products outlined in this business aim to fundamentally alter these dynamics, by ensuring all building blocks are allowed to be reused, and these blocks are communicated continuously, as close as possible to when they are produced.
+Provenance in projects is a pain, especially when we collaborate with various people, for large projects, and also for projects of various nature (e.g., research, music production, journalism). Git provides a way to collaborate on large projects with people, but the usability makes it limited to projects of a relatively specific nature. We want to build a tool that makes managing projects and their provenance easy by breaking down large projects into its smaller components. Moreover, by sharing all these components publicly and permissively, we allow us to reduce the redundancy in our work by seeing what our peers are doing. This might help inspire us and facilitate more collaborations. 
+
+Large projects without provenance, shared rarely and if so under restrictive licensing reduces the creative space of the peopl working in it and reduces the verifiability of outputs. The products outlined in this business aim to fundamentally alter these dynamics, by ensuring all building blocks are allowed to be reused, and these blocks are communicated continuously, as close as possible to when they are produced.
 
 ## Products
 
