@@ -6,7 +6,7 @@ This business plan is written both as a visioning exercise (future tense) and up
 
 Provenance in projects can be a pain, especially when we collaborate with various people, for large projects, and also for projects of various nature (e.g., research, music production, journalism). Git provides a way to collaborate on large projects with people, but the usability makes it limited to projects of a relatively specific nature. We want to build a tool that makes managing projects and their provenance easy by breaking down large projects into its smaller components. Moreover, by sharing all these components publicly and permissively, we allow us to reduce the redundancy in our work by seeing what our peers are doing. This might help inspire us and facilitate more collaborations. 
 
-Large projects without provenance, shared rarely and if so under restrictive licensing reduces the creative space of the peopl working in it and reduces the verifiability of outputs. The products outlined in this business aim to fundamentally alter these dynamics, by ensuring all building blocks are allowed to be reused, and these blocks are communicated continuously, as close as possible to when they are produced.
+Large projects without provenance, shared rarely and if so under restrictive licensing, reduce the creative space of the people working in it and reduce the verifiability of outputs. The products outlined in this business aim to fundamentally alter these dynamics, by ensuring all building blocks are allowed to be reused, and these blocks are communicated continuously, as close as possible to when they are produced.
 
 ## Products
 
@@ -49,4 +49,3 @@ The revenue model for these network analyses is progressive, because users can t
 The substantive questions provided in Product 3 will continuously be developed, refined, and extended upon, but there may always be substantive questions that people or organizations want answered and are not part of the off-the-shelf offering. Liberate Science will provide a consulting process to help clients formulate their substantive question of interest, translate that to a (set of) indicators, and provide the computations.
 
 Subsequently, these custom network analyses will feed back into Product 3, becoming available as off-the-shelf analyses. This means that the Product 4 clients are in effect paying for Liberate Science’s product development.
-
