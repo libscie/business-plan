@@ -2,7 +2,21 @@
 
 This business plan is written both as a visioning exercise (future tense) and updated subsequently with what has happened (past tense). This is a living document. Versions of it may be stored at various snapshot dates to allow for evaluation of how the business plan evolves. The document provides a product analysis, a community analysis, and yearly plans.
 
-## Business motivation
+## Vision
+
+### For science
+We want a publication process that helps researchers to do great science. That means accessible to everyone and free for all to participate in. That all research can be published, free from bias and time-consuming bureaucracy. That the research process is transparent from the start. That working together and building on each other's work is easy and free from restrictions.
+
+### For work
+A truly healthy and empowered work environment that is open, democratic and beneficial to workers, without being harmful for the environment.
+
+## Mission
+
+### For science
+
+### For work
+
+## Business motivation (OLD)
 
 Provenance in projects can be a pain, especially when we collaborate with various people, for large projects, and also for projects of various nature (e.g., research, music production, journalism). Git provides a way to collaborate on large projects with people, but the usability makes it limited to projects of a relatively specific nature. We want to build a tool that makes managing projects and their provenance easy by breaking down large projects into its smaller components. Moreover, by sharing all these components publicly and permissively, we allow us to reduce the redundancy in our work by seeing what our peers are doing. This might help inspire us and facilitate more collaborations. 
 
