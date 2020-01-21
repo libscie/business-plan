@@ -4,23 +4,29 @@ This business plan is written both as a visioning exercise (future tense) and up
 
 ## Vision
 
+This is the future we'd like to see what motivates us to do this work. The vision should stay relatively fixed over time, although wording and emphasis may change, and is used to guide our decision making.
+
 ### For science
-We want a publication process that helps researchers to do great science. That means accessible to everyone and free for all to participate in. That all research can be published, free from bias and time-consuming bureaucracy. That the research process is transparent from the start. That working together and building on each other's work is easy and free from restrictions.
+We want a publication process that empowers researchers to do great science. Science that is accessible to everyone, free for all to participate in and relevant to real-world problems. All research can be published, free from bias, time-consuming bureaucracy and centralised control. The research process is transparent from the start. Working together and building on each other's work is easy and free from restrictions.
 
 ### For work
-A truly healthy and empowered work environment that is open, democratic and beneficial to workers, without being harmful for the environment.
+A truly healthy and empowered work environment that is open, democratic and beneficial to workers, without being harmful to others or the planet.
 
 ## Mission
 
+This is what we do to work towards our vision. This may change over time, as we discover that there are more effective ways to achieve our goals. The mission, like the vision, acts as a compass, but is more flexible. It is what we live day to day, but might not be exactly what we live day to day by next year.
+
 ### For science
+We build tools that enable researchers to focus on what matters most, their research, while upholding important open science principles by design. We raise awareness to issues arising from the current publication system and build a community interested in improving this system.
 
 ### For work
+While working on our research tools, we live the changes we want to see in the workplace by developing an *open worker co-operative* organisation model and applying it to our own work. We improve the model along the way, learning from our own experiences as an open worker co-op.
 
-## Business motivation (OLD)
+## Background
 
 Provenance in projects can be a pain, especially when we collaborate with various people, for large projects, and also for projects of various nature (e.g., research, music production, journalism). Git provides a way to collaborate on large projects with people, but the usability makes it limited to projects of a relatively specific nature. We want to build a tool that makes managing projects and their provenance easy by breaking down large projects into its smaller components. Moreover, by sharing all these components publicly and permissively, we allow us to reduce the redundancy in our work by seeing what our peers are doing. This might help inspire us and facilitate more collaborations. 
 
-Large projects without provenance, shared rarely and if so under restrictive licensing, reduce the creative space of the people working in it and reduce the verifiability of outputs. The products outlined in this business aim to fundamentally alter these dynamics, by ensuring all building blocks are allowed to be reused, and these blocks are communicated continuously, as close as possible to when they are produced.
+Large projects without provenance, shared rarely and if so under restrictive licensing, reduce the creative space of the people working in it and reduce the verifiability of outputs. The products outlined in this document aim to fundamentally alter these dynamics, by ensuring all building blocks are allowed to be reused, and these blocks are communicated continuously, as close as possible to when they are produced.
 
 ## Products
 
@@ -63,3 +69,16 @@ The revenue model for these network analyses is progressive, because users can t
 The substantive questions provided in Product 3 will continuously be developed, refined, and extended upon, but there may always be substantive questions that people or organizations want answered and are not part of the off-the-shelf offering. Liberate Science will provide a consulting process to help clients formulate their substantive question of interest, translate that to a (set of) indicators, and provide the computations.
 
 Subsequently, these custom network analyses will feed back into Product 3, becoming available as off-the-shelf analyses. This means that the Product 4 clients are in effect paying for Liberate Science’s product development.
+
+## Open worker co-operative
+
+## Community & awareness
+
+## Risks and other points of attention
+Our [vision](#vision) is leading. Therefore, we must evaluate our effectivity by measuring progress towards this vision. Are researchers interested in our products? And do our products, when used, have the intended effect? What assumptions are we making regarding our target user group and how do we check these assumptions? How do we prepare the world for our product, as well as preparing our product for the world?
+
+When doing this, we must not be too invested in the specifics of the great ideas we have and remain aware of our own human biases. We must actively seek out collaboration and empower those interested in our work. We must be ready to admit our own mistakes and pivot when necessary.
+
+As our vision is quite broad, but our resources are limited, we will need to take a step-by-step approach to development. We will need to define our minimum viable product that will provide value, but more importantly, a big learning opportunity. We will need to set milestones to provide clear direction and focus.
+
+To ensure continuity of the project, we need to secure our funding and make sure our organisation isn't too reliant on specific individual workers.
