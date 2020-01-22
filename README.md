@@ -38,7 +38,7 @@ The products are non-rivalrous (i.e., not zero-sum), non-local (i.e., can be con
 
 ## Product 0: 🍐-to-🍐 commons
 
-The peer-to-peer (aka 🍐-to-🍐) commons framework is a set of opinionated, minimum, and flexible specifications to create a commons infrastructure for all chronological, stepwise, creative projects. This forms the basis for our Hypergraph product and is intended for developers both inside and outside the organisation.
+The peer-to-peer (aka 🍐-to-🍐) commons framework ([p2pcommons](https://github.com/p2pcommons)) is a set of opinionated, minimum, and flexible specifications to create a commons infrastructure for all chronological, stepwise, creative projects. This forms the basis for our Hypergraph product and is intended for developers both inside and outside the organisation.
 
 The design for this commons infrastructure originated from redesigning scholarly communication (see also [here](https://doi.org/10.3390/publications6020021) and [here](https://doi.org/10.3390/publications7020040)), but can be generalized to any iterative, creative, collaborative process (e.g., journalism, music production, book writing) that values provenance. The main added value is that all steps are chronologically communicated and link and that the commons infrastructure lives on the peer-to-peer protocol Dat.
 
@@ -46,7 +46,7 @@ The specifications aim to formalize both the minimum specifications for a commun
 
 ## Product 1: Hypergraph
 
-Hypergraph is our publication tool that empowers researchers to do great science. Hypergraph intends to reduce friction in the research process, while promoting modular *as-you-go* publication and ensuring open access and participation, clear provenance and decentralised control. 
+[Hypergraph](https://github.com/hypergraph-xyz) is our publication tool that empowers researchers to do great science. Hypergraph intends to reduce friction in the research process, while promoting modular *as-you-go* publication and ensuring open access and participation, clear provenance and decentralised control. 
 
 Hypergraph (i.e., a [a graph of graphs](https://en.wikipedia.org/wiki/Hypergraph)) will be the first application to utilize the 🍐-to-🍐 commons (Product 0). Hypergraph allows people to start interfacing with this commons in order to consume and produce modules. There will be various instances of the Hypergraph application (command line, desktop, mobile, web). 
 
