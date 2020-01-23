@@ -10,17 +10,23 @@ This is the future we'd like to see and what motivates us to do this work. The v
 We want a publication process that empowers researchers to do great science. Science that is accessible to everyone, free for all to participate in and relevant to real-world problems. All research can be published, free from bias, time-consuming bureaucracy and centralised control. The research process is transparent from the start. Working together and building on each other's work is easy and free from restrictions.
 
 ### For work
-A truly healthy and empowered work environment that is open, democratic and beneficial to workers, without being harmful to others or the planet.
+We provide workers with more agency, energy, money, and time to act on their beliefs. This creates a truly healthy and empowered work environment that is open, democratic and beneficial to workers, without being harmful to others or the planet.
 
 ## Mission
 
 This is what we do to work towards our vision. This may change over time, as we discover that there are more effective ways to achieve our goals. The mission, like the vision, acts as a compass, but is more flexible. It is what we live day to day right now, but might not be exactly what we live day to day by next year.
 
 ### For science
-We build tools that enable researchers to focus on what matters most, their research, while upholding important open science principles by design. We raise awareness to issues arising from the current publication system and build a community interested in improving this system.
+We build tools that enable researchers to focus on what matters most, their research, while upholding important open science principles by design. We raise awareness to issues arising from the current publication system and build a community interested in actively improving this system.
 
 ### For work
 While working on our research tools, we live the changes we want to see in the workplace by developing an *open worker co-operative* organisation model and applying it to our own work. We improve the model along the way, learning from our own experiences as an open worker co-op.
+
+Fundamental organisational changes:
+- all workers have one vote, electing who manages
+- 7-hour workdays or 4-day workweeks 
+- uniform base pay for members, variable pay to incentivize unwanted tasks
+- direct budgetary profit sharing
 
 ## Background
 
@@ -54,9 +60,9 @@ These various instances of the Hypergraph application will run on a common devel
 
 ## Product 2: Hypergraph Vault
 
-Hypergraph Vault is our registration and archival service for Hypergraph that provides researchers with a cheap, central location to have their work stored safely, available forever and findable by others.
+Hypergraph Vault is our publication and archival service for Hypergraph that provides researchers with a cheap, central location to have their work stored safely, available forever and findable by others.
 
-The work includes building a database instance to store the contents of the Vault, a Docker container to deploy for server rehosting based on that database, and integrating a payment process into Hypergraph using [Stripe](https://stripe.com/en-de/payments) to add modules to the database. Modules MAY be in the Vault if people choose so, but it is not a necessity; Hypergraph will implement this as a requirement for registration of content modules. The added value is persistent availability and findability (the Vault is immediately searchable in Hypergraph by default). In order to get a module in the centralized Vault, a small fee must be paid; 1EUR.
+The work includes building a database instance to store the contents of the Vault, a Docker container to deploy for server rehosting based on that database, and integrating a payment process into Hypergraph using [Stripe](https://stripe.com/en-de/payments) to add modules to the database. Modules MAY be in the Vault if people choose so, but it is not a necessity; Hypergraph will implement this as a requirement for publication of content modules. The added value is persistent availability and findability (the Vault is immediately searchable in Hypergraph by default). In order to get a module in the centralized Vault, a small fee must be paid; 1EUR (assuming this is proportional to module size and the corresponding running costs).
 
 Product 2 also allows the organization to gain experience in integrating payment infrastructures (e.g., Stripe API, bookkeeping, paying international VAT). This is a simple product and provides a stepping stone towards more complex and larger payments in Product 3; this also serves as a clear counterweight to the Article Processing Charges (APCs) of large publishing houses exceeding hundreds or thousands of dollars (see for example [here](https://peerj.com/preprints/27809/)).
 
@@ -87,6 +93,6 @@ Our [vision](#vision) is leading. Therefore, we must evaluate our effectivity by
 
 When doing this, we must not be too invested in the specifics of the great ideas we have and remain aware of our own human biases. We must actively seek out collaboration and empower those interested in our work. We must be ready to admit our own mistakes and pivot when necessary.
 
-As our vision is quite broad, but our resources are limited, we will need to take a step-by-step approach to development. We will need to define our minimum viable product that will provide value, but more importantly, a big learning opportunity. We will need to set milestones to provide clear direction and focus.
+As our vision is quite broad, but our resources are limited, we will need to take a step-by-step approach to development. We set a minimum viable product that provides the base value, and start the co-design process with the community we're trying to serve. We  set up our MVPs and subsequent releases to be big learning opportunities. We set milestones to provide clear direction and focus.
 
-To ensure continuity of the project, we need to secure our funding and make sure our organisation isn't too reliant on specific individual workers. Along the way, we will need to verify whether our revenue models are working and will provide sufficient income to continue our work.
+To ensure continuity of the project, we need to secure our funding and make sure our organisation isn't too reliant on specific individual workers. Along the way, we will need to verify whether our revenue models are working and will provide sufficient income to continue our work. We will provide public financials for community members to inspect and to keep ourselves accountable towards the community.
