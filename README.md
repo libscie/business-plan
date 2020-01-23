@@ -54,7 +54,7 @@ These various instances of the Hypergraph application will run on a common devel
 
 ## Product 2: Hypergraph Vault
 
-Hypergraph Vault is our registration and archival service for Hypergraph that provides researchers with a cheap, central location to have their work stored safely and findable by others.
+Hypergraph Vault is our registration and archival service for Hypergraph that provides researchers with a cheap, central location to have their work stored safely, available forever and findable by others.
 
 The work includes building a database instance to store the contents of the Vault, a Docker container to deploy for server rehosting based on that database, and integrating a payment process into Hypergraph using [Stripe](https://stripe.com/en-de/payments) to add modules to the database. Modules MAY be in the Vault if people choose so, but it is not a necessity; Hypergraph will implement this as a requirement for registration of content modules. The added value is persistent availability and findability (the Vault is immediately searchable in Hypergraph by default). In order to get a module in the centralized Vault, a small fee must be paid; 1EUR.
 
@@ -62,9 +62,9 @@ Product 2 also allows the organization to gain experience in integrating payment
 
 ## Product 3: Network analyses
 
-Our network analyses will provide a powerful and more specific alternative to traditional "impact" metrics for scientific publications. The results from these analyses will be better tailored to the enquirer's needs than traditional metrics, which we hope will allow researchers to direct more of their attention to doing great research. 
+Our network analyses will provide a powerful and more specific alternative to traditional "impact" metrics for scientific publications. By providing answers to specific network-related questions regarding a particular researcher or publication, these results will be better tailored to the enquirer's needs than traditional metrics. We hope this will allow researchers to direct more of their attention to doing great research.
 
-Most modules will be created as a follow-up to a previous module, creating a(n acyclic) network of consecutive modules. This structure opens up the biggest revenue possibility: Providing Hypergraph users prepared substantive questions to analyse the network on. These analyses can focus on how the network looks at that time point (i.e. evaluative) or how the network might change in the future based on how they proceed with the project (i.e., planning).
+On Hypergraph, most modules will be created as a follow-up to a previous module, creating a(n acyclic) network of consecutive modules. This structure opens up the biggest revenue possibility: Providing Hypergraph users prepared substantive questions to analyse the network on. These analyses can focus on how the network looks at that time point (i.e. evaluative) or how the network might change in the future based on how they proceed with the project (i.e., planning).
 
 ![](./assets/dag.png)
 
@@ -89,4 +89,4 @@ When doing this, we must not be too invested in the specifics of the great ideas
 
 As our vision is quite broad, but our resources are limited, we will need to take a step-by-step approach to development. We will need to define our minimum viable product that will provide value, but more importantly, a big learning opportunity. We will need to set milestones to provide clear direction and focus.
 
-To ensure continuity of the project, we need to secure our funding and make sure our organisation isn't too reliant on specific individual workers.
+To ensure continuity of the project, we need to secure our funding and make sure our organisation isn't too reliant on specific individual workers. Along the way, we will need to verify whether our revenue models are working and will provide sufficient income to continue our work.
