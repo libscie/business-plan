@@ -4,7 +4,7 @@ This business plan is written both as a visioning exercise (future tense) and up
 
 ## Vision
 
-This is the future we'd like to see and what motivates us to do this work. The vision should stay relatively fixed over time, although wording and emphasis may change, and is used to guide our decision making.
+This is the future we'd like to see and what motivates us to do this work. The vision should stay relatively fixed over time, although wording and emphasis may change, and it is used to guide our decision making.
 
 ### For science
 We want a publication process that empowers researchers to do great science. Science that is accessible to everyone, free for all to participate in and relevant to real-world problems. All research can be published, free from bias, time-consuming bureaucracy and centralised control. The research process is transparent from the start. Working together and building on each other's work is easy and free from restrictions.
@@ -46,7 +46,7 @@ The specifications aim to formalize both the minimum specifications for a commun
 
 ## Product 1: Hypergraph
 
-[Hypergraph](https://github.com/hypergraph-xyz) is our publication tool that empowers researchers to do great science. Hypergraph intends to reduce friction in the research process, while promoting modular *as-you-go* publication and ensuring open access and participation, clear provenance and decentralised control. 
+[Hypergraph](https://github.com/hypergraph-xyz) is our set of publication tools that empowers researchers to do great science. Hypergraph intends to reduce friction in the research process, while promoting modular *as-you-go* publication and ensuring open access and participation, clear provenance and decentralised control. 
 
 Hypergraph (i.e., a [a graph of graphs](https://en.wikipedia.org/wiki/Hypergraph)) will be the first application to utilize the 🍐-to-🍐 commons (Product 0). Hypergraph allows people to start interfacing with this commons in order to consume and produce modules. There will be various instances of the Hypergraph application (command line, desktop, mobile, web). 
 
