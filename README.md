@@ -7,7 +7,7 @@ This business plan is written both as a visioning exercise (future tense) and up
 This is the future we'd like to see and what motivates us to do this work. The vision should stay relatively fixed over time, although wording and emphasis may change, and it is used to guide our decision making.
 
 ### For science
-We want a publication process that empowers researchers to do great science. Science that is accessible to everyone, free for all to participate in and relevant to real-world problems. All research can be published, free from bias, time-consuming bureaucracy and centralised control. The research process is transparent from the start. Working together and building on each other's work is easy and free from restrictions.
+We want a publication process that empowers researchers to do great science. Science that is accessible to everyone, free for all to participate in. All research can be published, free from publication bias, time-consuming bureaucracy and centralised control. The research process is transparent from the start. Working together and building on each other's work is easy and free from restrictions.
 
 ### For work
 We provide workers with more agency, energy, money, and time to act on their beliefs. This creates a truly healthy and empowered work environment that is open, democratic and beneficial to workers, without being harmful to others or the planet.
