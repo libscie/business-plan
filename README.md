@@ -1,6 +1,6 @@
 # Business plan Liberate Science
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-3-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-4-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 This business plan is written both as a visioning exercise (future tense) and updated subsequently with what has happened (past tense). This is a living document. Versions of it may be stored at various snapshot dates to allow for evaluation of how the business plan evolves. The document provides a product analysis, a community analysis, and yearly plans.
@@ -114,6 +114,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://chjh.nl"><img src="https://avatars0.githubusercontent.com/u/2946344?v=4" width="100px;" alt=""/><br /><sub><b>Chris Hartgerink</b></sub></a><br /><a href="#business-chartgerink" title="Business development">💼</a> <a href="#content-chartgerink" title="Content">🖋</a> <a href="#fundingFinding-chartgerink" title="Funding Finding">🔍</a> <a href="#ideas-chartgerink" title="Ideas, Planning, & Feedback">🤔</a></td>
     <td align="center"><a href="https://github.com/jameslibscie"><img src="https://avatars2.githubusercontent.com/u/59870484?v=4" width="100px;" alt=""/><br /><sub><b>James Lomas</b></sub></a><br /><a href="#content-jameslibscie" title="Content">🖋</a> <a href="#ideas-jameslibscie" title="Ideas, Planning, & Feedback">🤔</a> <a href="#projectManagement-jameslibscie" title="Project Management">📆</a></td>
     <td align="center"><a href="http://dpaez.github.io/"><img src="https://avatars0.githubusercontent.com/u/837500?v=4" width="100px;" alt=""/><br /><sub><b>Diego</b></sub></a><br /><a href="#ideas-dpaez" title="Ideas, Planning, & Feedback">🤔</a></td>
+    <td align="center"><a href="http://twitter.com/juliangruber/"><img src="https://avatars2.githubusercontent.com/u/10247?v=4" width="100px;" alt=""/><br /><sub><b>Julian Gruber</b></sub></a><br /><a href="#ideas-juliangruber" title="Ideas, Planning, & Feedback">🤔</a></td>
   </tr>
 </table>
 
