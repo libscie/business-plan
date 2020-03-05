@@ -1,4 +1,7 @@
 # Business plan Liberate Science
+<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+<!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 This business plan is written both as a visioning exercise (future tense) and updated subsequently with what has happened (past tense). This is a living document. Versions of it may be stored at various snapshot dates to allow for evaluation of how the business plan evolves. The document provides a product analysis, a community analysis, and yearly plans.
 
@@ -98,3 +101,22 @@ When doing this, we must not be too invested in the specifics of the great ideas
 As our vision is quite broad, but our resources are limited, we will need to take a step-by-step approach to development. We set a minimum viable product that provides the base value, and start the co-design process with the community we're trying to serve. We  set up our MVPs and subsequent releases to be big learning opportunities. We set milestones to provide clear direction and focus.
 
 To ensure continuity of the project, we need to secure our funding and make sure our organisation isn't too reliant on specific individual workers. Along the way, we will need to verify whether our revenue models are working and will provide sufficient income to continue our work. We will provide public financials for community members to inspect and to keep ourselves accountable towards the community.
+
+## Contributors ✨
+
+Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
+  <tr>
+    <td align="center"><a href="https://chjh.nl"><img src="https://avatars0.githubusercontent.com/u/2946344?v=4" width="100px;" alt=""/><br /><sub><b>Chris Hartgerink</b></sub></a><br /><a href="#business-chartgerink" title="Business development">💼</a> <a href="#content-chartgerink" title="Content">🖋</a> <a href="#fundingFinding-chartgerink" title="Funding Finding">🔍</a> <a href="#ideas-chartgerink" title="Ideas, Planning, & Feedback">🤔</a></td>
+  </tr>
+</table>
+
+<!-- markdownlint-enable -->
+<!-- prettier-ignore-end -->
+<!-- ALL-CONTRIBUTORS-LIST:END -->
+
+This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
