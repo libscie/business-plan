@@ -42,6 +42,8 @@ The products are non-rivalrous (i.e., not zero-sum), non-local (i.e., can be con
 
 ![](./assets/product-stack.png)
 
+See also the [dependency chart](https://raw.githubusercontent.com/libscie/business-plan/master/assets/dependency-chart.png) for an overview of relations between our products and external products.
+
 ## Product 0: 🍐-to-🍐 commons
 
 The peer-to-peer (aka 🍐-to-🍐) commons framework ([p2pcommons](https://github.com/p2pcommons)) is a set of opinionated, minimum, and flexible specifications to create a commons infrastructure for all chronological, stepwise, creative projects. This forms the basis for our Hypergraph product and is intended for developers both inside and outside the organisation.
