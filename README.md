@@ -25,7 +25,7 @@ We build tools that enable researchers to focus on what matters most, their rese
 ### For work
 While working on our research tools, we live the changes we want to see in the workplace by developing an *open worker co-operative* organisation model and applying it to our own work. We improve the model along the way, learning from our own experiences as an open worker co-op.
 
-Fundamental organisational changes:
+Fundamental organisational changes we aim to implement:
 - all workers have one vote, electing who manages
 - 7-hour workdays or 4-day workweeks 
 - uniform base pay for members, variable pay to incentivize unwanted tasks
